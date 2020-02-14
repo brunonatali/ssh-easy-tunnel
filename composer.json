@@ -1,0 +1,9 @@
+{
+    "require": {
+        "react/stream": "^1.1",
+        "brunonatali/tools": "^0.2",
+        "react/socket": "^1.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
